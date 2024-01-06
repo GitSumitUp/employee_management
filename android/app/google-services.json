@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32818912174",
+    "project_id": "employee-management-e7326",
+    "storage_bucket": "employee-management-e7326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32818912174:android:d5c232e692addcadc9063f",
+        "android_client_info": {
+          "package_name": "com.sumit.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8D5OfvHvdnFd2-eSBDNcG1T3EEiaqak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32818912174:android:f5210b43fed3b8ccc9063f",
+        "android_client_info": {
+          "package_name": "com.sumit.employee_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8D5OfvHvdnFd2-eSBDNcG1T3EEiaqak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
